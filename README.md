@@ -1,0 +1,2 @@
+# BTCT-TimerCoin
+the TimerCoin
