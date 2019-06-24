@@ -15,3 +15,7 @@ TimerCoin's important features: 10 minutes of block time, 100 units of initial b
 If Timer Coin keeps digging for 15 years, the output of each block will decrease from 100 to about 0.04, with a total of 9.99 million in 15 years.
 
 Provide multi-platform versions: WINDOWS/MACOS/IOS/Android/UBUNTU/CENTOS/etc.
+
+
+------------
+BTCT-TimerCoin源代码 百度盘链接:https://pan.baidu.com/s/1z82WQz66cKcr7V9N2Ea_yw  密码:etnj
